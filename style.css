@@ -1,0 +1,63 @@
+h1{
+    font-size: 45px;
+}
+.a{
+    text-align: center;
+    font-size: 30px;
+}
+.b{
+    text-align: center;
+    font-size: 30px;
+}
+.c{
+    text-align: center;
+    font-size: 35px;
+}
+.d{
+    text-align: center;
+    font-size: 25px;
+}
+.e{
+    text-align: left;
+    font-size: 20px;
+}
+.f{
+    text-align: right;
+    font-size: 20px;
+}
+.g{
+    text-align: left;
+    font-size: 20px;
+}
+body{
+    background-image: url(image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h{
+    text-align: center;
+}
+.i{
+    color: white;
+}
+.j{
+    color: white;
+}
+.k{
+    border-style: double;
+}
+.l{border-style: double;}
+.m{
+    border-style: solid;
+    color: white;
+}
+.n{
+    border-style: solid;
+    color: aliceblue;
+}
+.o{
+    color: crimson;
+}
+.p{
+    color: crimson;
+}
